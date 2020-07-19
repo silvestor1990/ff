@@ -578,8 +578,7 @@ padding: 10px;
 	padding-left:25px;
 }
 .igor {
-	padding-left:30px;
-	padding-right:30px;
+	
 	margin-top: 20px;
 }
 hr {
@@ -636,11 +635,8 @@ hr {
     max-width: 49%;
 
 }          
-        @media screen and (max-width: 500px) {
+        @media screen and (max-width: 400px) {
             .tabs > label {
                 padding: 15px;
             }
-			.img-info::after {
-			display:none;
-			}
-  }
+			
